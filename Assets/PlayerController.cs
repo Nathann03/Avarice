@@ -30,7 +30,7 @@ public class PlayerController : MonoBehaviour
 
 private void FixedUpdate()
 {
-
+    if (canMove) {
   
         if (movementInput != Vector2.zero)
         {
@@ -52,7 +52,7 @@ private void FixedUpdate()
         {
             spriteRenderer.flipX = false;
         }
-
+    }
 }
 
 private void TryMove(Vector2 movementVector)
