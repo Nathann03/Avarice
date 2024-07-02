@@ -4,7 +4,7 @@
 
 Welcome to the official repository for Avarice, a medieval 2D adventure game where players take on the role of a wandering adventurer drawn to a town besieged by monsters. This README will guide you through the setup, gameplay, and contributing guidelines for Avarice.
 
-![Avarice Main Menu](./mnt/data/Screenshot%202024-04-19%20000555.png)
+![Screenshot 2024-04-19 000555](https://github.com/Nathann03/Avarice/assets/90486674/77d4a0f5-d9ac-499c-9818-c7b86a477284)
 
 ## Table of Contents
 
@@ -31,7 +31,7 @@ The concept of Avarice was born from a fascination with the American gold rush o
 
 In Avarice, players start as a lone adventurer who, after aiding a besieged merchant caravan, decides to settle in a town under threat. The adventurer's mission is to defend the town, explore treacherous dungeons, gather valuable resources, and ultimately face a deceptive final boss. The gameplay combines elements of combat, exploration, and town management, offering a richly immersive experience.
 
-![Avarice Gameplay](./mnt/data/Screenshot%202024-04-19%20000722.png)
+![Screenshot 2024-04-19 000722](https://github.com/Nathann03/Avarice/assets/90486674/9cbbbdeb-cca9-4611-a385-714a652c7c75)
 
 ### Visual Style
 
